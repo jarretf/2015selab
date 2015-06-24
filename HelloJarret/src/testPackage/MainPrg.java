@@ -8,6 +8,7 @@ public class MainPrg {
 		System.out.println("thank you jarret");
 		System.out.println("your welcome jarret");
 		System.out.println("hi jarret");
+		System.out.println("bye jarret");
 	}
 
 }
